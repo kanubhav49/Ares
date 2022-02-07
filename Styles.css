@@ -1,0 +1,72 @@
+body {background-image:url(back-mars.jpg);
+background-size: 2000px 1000px;
+background-repeat: no-repeat;
+margin:0;
+
+}
+
+h1{
+  color:white ;font-size: 50px;}
+  h1:hover{
+    color:#FFC600;
+
+  }
+h4{
+  color:#FFC600;}
+  h4:hover { color:black; }
+.nav{
+
+  width: 1280px;
+  height: 100px;
+  position: absolute;
+top: 0;
+
+}
+ul{
+  color: white;
+
+}
+
+.Home{
+  position: absolute;
+top: 10px;
+right:400;
+font-size: 25px;
+
+}
+.About{
+  position: absolute;
+top: 10px;
+right:300;
+font-size: 25px;
+}
+.Achievements{
+  position: absolute;
+top: 10px;
+right:100;
+font-size: 25px;
+}
+
+.top{
+
+  position: absolute;
+  top:150px;
+  left:200px;
+
+
+
+}
+
+.middle{
+
+  position: absolute;
+  top: 400px;
+left :500px;
+}
+
+.bottom{
+
+    position: absolute;
+    top: 500px;
+  left :600px;
+}
